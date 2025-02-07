@@ -184,15 +184,39 @@ Start the havoc C2 server
 
 havoc server --profile ./profiles/havoc.yaotl -v --debug
 
+*Ref 10: Initialize havoc c2 server*
+![Initialize havoc c2 server](images/image37.png)
+
 Start havoc C2 client
 
 havoc client
 
+*Ref 11: Start havoc c2 client*
+![Start havoc c2 client](images/image38.png)
+
 ### Running Havoc C2
 
 1. Create a Listener
-2. Generate a payload
-3. Download and Execute a payload
+
+*Ref 12: Creating a Listener*
+![Creating a Listener](images/image39.png)
+
+3. Generate a payload
+
+*Ref 13: Generating a payload*
+![Generating a payload](images/image40.png)
+
+5. Download and Execute a payload
+
+*Ref 14: Execute a payload*
+![Execute a payload](images/image41.png)
+![Execute a payload](images/image42.png)
+![Execute a payload](images/image43.png)
+![Execute a payload](images/image44.png)
+![Execute a payload](images/image45.png)
+![Execute a payload](images/image46.png)
+![Execute a payload](images/image47.png)
+
 
 ## Atomic Red Team
 
