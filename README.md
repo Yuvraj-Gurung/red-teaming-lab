@@ -222,20 +222,32 @@ havoc client
 
 Introduction
 
+![Atomic Red Team Introduction](images/image48.png) ![Atomic Red Team Introduction](images/image49.png) ![Atomic Red Team Introduction](images/image50.png)
+
 Installation
 
 1. Open the PowerShell and run as administrator.
 2. Execute the following commands:
+
 powershell -exec bypass
+
 Install-Module -Name invoke-atomicredteam,powershell-yaml -Scope CurrentUser
+
 3. Import the Modules
+
 Import-Module "C:\AtomicRedTeam\invoke-atomicredteam\Invoke-AtomicRedTeam.psd1" -Force
 
+![powershell commands](images/image51.png)
+
 ## Mitre Att&ck Framework
+
+![mitre attack framework](images/image52.png) ![mitre attack framework](images/image53.png) ![mitre attack framework](images/image54.png)
 
 # Running Atomic Tests
 
 (PowerShell Commands)
+
+![Running atomic tests](images/image55.png) ![Running atomic tests](images/image56.png) ![Running atomic tests](images/image57.png) ![Running atomic tests](images/image58.png) ![Running atomic tests](images/image59.png) ![Running atomic tests](images/image60.png) ![Running atomic tests](images/image61.png) ![Running atomic tests](images/image62.png)
 
 1. Invoke-AtomicTest T1016 -ShowDetailsBrief
 2. Invoke-AtomicTest T1016 -ShowDetails
