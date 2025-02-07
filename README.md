@@ -40,14 +40,19 @@ pip3 install -r requirements.txt
 
 python3 server.py --insecure
 
+*Ref 1: Initializing Caldera*
+
 4. Access the Caldera Web interface
 
 e.g; http://server-ip:8888
+
+*Ref 2: Caldera Web Interface*
 
 5. Login to Caldera 
 
 Credentials: red/admin
 
+*Ref 3: Caldera Login*
 
 ### Campaigns
 
