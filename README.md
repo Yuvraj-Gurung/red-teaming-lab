@@ -148,9 +148,31 @@ dotnet run
 ![Caldera Web Interface](images/image27.png)
 
 ### Creating a Listener
+
+*Ref 6: Configuring a Listener*
+![Configuring a listener](images/image28.png)
+
 ### Start a Listener
+
+*Ref 7: Starting a listener*
+![Starting a Listener](images/image29.png)
+
+
 ### Set Up a Launcher
+
+*Ref 8: Configuring a launcher*
+![Configuring a launcher](images/image30.png)
+
+
 ### Executing the Grunt
+
+*Ref 9: Executing a Grunt*
+![Executing a grunt](images/image31.png)
+![Executing a grunt](images/image32.png)
+![Executing a grunt](images/image33.png)
+![Executing a grunt](images/image34.png)
+![Executing a grunt](images/image35.png)
+![Executing a grunt](images/image36.png)
 
 ## Havoc C2
 
