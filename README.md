@@ -123,15 +123,29 @@ Note:
 
 3. Set Defender Exclusions.
 
-4. Clone the GitHub Repository
+*Ref 2: Setting Exclusions*
+![Setting Exclusions](images/image22.png)
+![Setting Exclusions](images/image23.png)
+
+5. Clone the GitHub Repository
 
 git clone --recurse-submodules https://github.com/cobbr/Covenant
+
+*Ref 3: Cloning the Repository*
+![Cloning the Repository](images/image24.png)
+![Cloning the Repository](images/image25.png)
 
 4. Start Covenant
 
 dotnet run
 
+*Ref 4: Initializing the Covenant*
+![Initializing the Covenant](images/image26.png)
+
 5. Open a web browser and navigate to https://127.0.0.1:7443/
+
+*Ref 5: Caldera Web Interface*
+![Caldera Web Interface](images/image27.png)
 
 ### Creating a Listener
 ### Start a Listener
