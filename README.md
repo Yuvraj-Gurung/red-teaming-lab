@@ -25,7 +25,6 @@ Software: Linux server (Ubuntu 20.04 recommended), Python 3.6.1+, Pip3, Git
 
 Skills: Familiarity with Linux system administration, TCP/IP, penetration testing concepts, and Windows.
 
-
 ### Setting Up Caldera
 
 1. Clone the Caldera GitHub Repository
@@ -41,30 +40,60 @@ pip3 install -r requirements.txt
 python3 server.py --insecure
 
 *Ref 1: Initializing Caldera*
+![Initializing Caldera](images/image1.png)
 
 4. Access the Caldera Web interface
 
 e.g; http://server-ip:8888
 
-*Ref 2: Caldera Web Interface*
-
 5. Login to Caldera 
 
 Credentials: red/admin
 
-*Ref 3: Caldera Login*
+*Ref 2: Caldera Login*
+![Caldera Login](images/image2.png)
 
 ### Campaigns
 
 Step 1: Deploy an Agents
 
+*Ref 3: Deploying Agents*
+![Deploying Agents](images/image3.png)
+
+![Deploying Agents](images/image4.png)
+
+![Deploying Agents](images/image5.png)
+
+![Deploying Agents](images/image6.png)
+
+![Deploying Agents](images/image7.png)
+
+![Deploying Agents](images/image8.png)
+
+![Deploying Agents](images/image9.png)
+
 Step 2: Abilities
+
+*Ref 4: Abilities*
+![Abilities](images/image10.png)
 
 Step 3: Adversaries
 
+*Ref 5: Adversaries*
+![Adversaries](images/image11.png)
+
 Step 4: Setting up Operations
 
+*Ref 6: Setting Caldera Operations*
+![Setting Caldera Operations](images/image12.png)
+![Setting Caldera Operations](images/image13.png)
+![Setting Caldera Operations](images/image14.png)
+![Setting Caldera Operations](images/image15.png)
+
 Step 5: Exporting the results
+
+*Ref 7: Exporting the results*
+![Exporting the results](images/image16.png)
 
 
 ## Covenant C2
@@ -85,9 +114,12 @@ Note:
 
 1. Download and Install Git client and DotNet Core 3.1
 
-2. Set Defender Exclusions.
+*Ref 1: Installation*
+![Installation](images/image17.png)
 
-3. Clone the GitHub Repository
+3. Set Defender Exclusions.
+
+4. Clone the GitHub Repository
 
 git clone --recurse-submodules https://github.com/cobbr/Covenant
 
