@@ -116,6 +116,10 @@ Note:
 
 *Ref 1: Installation*
 ![Installation](images/image17.png)
+![Installation](images/image18.png)
+![Installation](images/image19.png)
+![Installation](images/image20.png)
+![Installation](images/image21.png)
 
 3. Set Defender Exclusions.
 
